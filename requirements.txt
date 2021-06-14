@@ -1,0 +1,13 @@
+numpy
+pandas
+jupyter
+matplotlib
+seaborn
+dill
+ipaddress
+json
+csv
+# ripe.atlas.cousteau
+# ripe.atlas.sagan
+# requests
+# sqlite3
